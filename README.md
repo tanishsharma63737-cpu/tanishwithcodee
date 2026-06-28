@@ -1,4 +1,4 @@
-# tanishwithcodee
+# SALES DASHBORD (POWER BI)
 # Sales Data Analysis Dashboard (Power BI)
 
 ## Project Overview
